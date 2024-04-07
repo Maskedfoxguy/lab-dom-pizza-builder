@@ -127,6 +127,7 @@ function renderPrice() {
   // Iteration 4: change the HTML of `<aside class="panel price">`
 }
 
+
 renderEverything();
 
 // Iteration 1: Example of a click event listener on `<button class="btn btn-pepperoni">`
